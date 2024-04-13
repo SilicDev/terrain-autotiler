@@ -1,8 +1,8 @@
 ## Terrain Autotiler
 
-Terrain Autotiler is a replacement terrain tile matching algorithm for Godot 4. It was designed for accurate, deterministic results in player-facing situations such as procedural generation and tile-based games. It is fully compatible with Godot 4 TileSets without any additional setup, but also brings back optional features from Godot 3, such as ignore bits and merging autotiles.
+***Note: As of 4/2024, this repo is no longer being actively maintained.***
 
-***This is an early testing release. There may be frequent updates and changes to core features. Feedback and bug reports are greatly appreciated.***
+Terrain Autotiler is a replacement terrain tile matching algorithm for Godot 4. It was designed for accurate, deterministic results in player-facing situations such as procedural generation and tile-based games. It is fully compatible with Godot 4 TileSets without any additional setup, but also brings back optional features from Godot 3, such as ignore bits and merging autotiles.
 
 ![Painting with the editor](https://raw.githubusercontent.com/wiki/dandeliondino/terrain-autotiler/media/intro/intro_01_paint_with_editor.gif)
 
